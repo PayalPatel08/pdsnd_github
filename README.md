@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+### Project Data :
+Randomly selected data for the first six months of the 2017 are provided for all three cities.
 
-### Date created
-Include the date you created this project and README file.
+* chicago.csv - The chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
-### Project Title
-Replace the Project Title
+* new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
 
-### Description
-Describe what your project is about and what it does
+* washington.csv - Dataset containing all bike share information for the city of Washington provided by Udacity.
+This dataset does not include the "Gender" and "Birth Year" data.
 
-### Files used
-Include the files used
+All three of the file contain the same core six columns:
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* Sat Time(e.g. 2017-01-01 00:07:57)
+* End Time(e.g. 2027-02-02 00:20:53)
+* Trip Duration (in seconds -e.g., 776)
+* Start Station (e.g. Broadway & Barry Ave)
+* End Station (e.g. Sedgwick St & North Ave)
+* User Type (e.g. Subscriber or Customer)
 
+The Chicago and New York City files also have the following two columns:
+
+* Gender
+* Birth Year
