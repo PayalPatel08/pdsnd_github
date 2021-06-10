@@ -21,3 +21,18 @@ The Chicago and New York City files also have the following two columns:
 
 * Gender
 * Birth Year
+
+#### Built with:
+
+* Python 3.6 or above
+* pandas library
+* numpy library
+* time library
+* VS code
+
+#### References:
+* Udacity Classrooms
+* Udacity Knowledge
+* pandas library
+* numpy library
+* stack overflow
